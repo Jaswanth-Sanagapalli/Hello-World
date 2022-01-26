@@ -1,5 +1,4 @@
 # hello-world
 
 I am Jaswanth
-Smile :smile: please, I am ready with :camera:
-Hello 📞 is there anyone named like you?
+I write the Hello Wordls of every language I learnt here
